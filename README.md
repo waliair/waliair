@@ -20,7 +20,7 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=waliair&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=waliair&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?waliair=waliair&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=waliair&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=waliair&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
