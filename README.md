@@ -23,7 +23,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?waliair=Dyrean&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=waliair&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=waliair&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waliair&label=Profile%20views&color=0e75b6&style=flat" alt="waliair" /> </p>
 
