@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emre Aydınlık</h1>
 <h3 align="center">A passionate blockchain && frontend developer from Turkey</h3>
 <div align="left">
-<a href="https://app.daily.dev/Dyrean" target="_blank">
+<a href="https://app.daily.dev/waliair" target="_blank">
     <img
       width="256"
       align="right"
